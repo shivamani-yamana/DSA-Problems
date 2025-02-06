@@ -1,4 +1,4 @@
-# 1979. Find Greatest Common Divisor of Array
+# 1979. Find Greatest Common Divisor of Array (EASY)
 
 ## Problem Statement
 Given an integer array `nums`, return the greatest common divisor of the smallest number and largest number in `nums`.
